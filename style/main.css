@@ -5,6 +5,7 @@
 html, body   {
     height: 100%;
     color: #222;
+    background-color: #fff;
 }
 main {
     text-align: center;
