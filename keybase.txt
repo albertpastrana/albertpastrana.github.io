@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/albertpastrana
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://albertpastrana.com
+  * I am albertpastrana (https://keybase.io/albertpastrana) on keybase.
+  * I have a public key ASADj7HlAPCuAdhdozTKbrTao2npDk7vN_0DMh6sjVInRwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120038fb1e500f0ae01d85da334ca6eb4daa369e90e4eef37fd03321eac8d5227470a",
+            "host": "keybase.io",
+            "kid": "0120038fb1e500f0ae01d85da334ca6eb4daa369e90e4eef37fd03321eac8d5227470a",
+            "uid": "53adcaa31b6e8ff205f5583ab2089b19",
+            "username": "albertpastrana"
+        },
+        "service": {
+            "hostname": "albertpastrana.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.15"
+    },
+    "ctime": 1462356015,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1462355953,
+        "hash": "96ac67a4e045cf601607706836569b732bdf45d324b4b2868513a9747d8a41fb61c012bedbcdfe7b099b613df80e5dbcd50b8f2f36bbf37426ebce91690c62f4",
+        "seqno": 456591
+    },
+    "prev": "40dfd3a0722c3009f73edee03f3adbdf7e84aa919f9646e7f08bcf9b24285be2",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgA4+x5QDwrgHYXaM0ym602qNp6Q5O7zf9AzIerI1SJ0cKp3BheWxvYWTFAv97ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMDM4ZmIxZTUwMGYwYWUwMWQ4NWRhMzM0Y2E2ZWI0ZGFhMzY5ZTkwZTRlZWYzN2ZkMDMzMjFlYWM4ZDUyMjc0NzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMDM4ZmIxZTUwMGYwYWUwMWQ4NWRhMzM0Y2E2ZWI0ZGFhMzY5ZTkwZTRlZWYzN2ZkMDMzMjFlYWM4ZDUyMjc0NzBhIiwidWlkIjoiNTNhZGNhYTMxYjZlOGZmMjA1ZjU1ODNhYjIwODliMTkiLCJ1c2VybmFtZSI6ImFsYmVydHBhc3RyYW5hIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJhbGJlcnRwYXN0cmFuYS5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE1In0sImN0aW1lIjoxNDYyMzU2MDE1LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NjIzNTU5NTMsImhhc2giOiI5NmFjNjdhNGUwNDVjZjYwMTYwNzcwNjgzNjU2OWI3MzJiZGY0NWQzMjRiNGIyODY4NTEzYTk3NDdkOGE0MWZiNjFjMDEyYmVkYmNkZmU3YjA5OWI2MTNkZjgwZTVkYmNkNTBiOGYyZjM2YmJmMzc0MjZlYmNlOTE2OTBjNjJmNCIsInNlcW5vIjo0NTY1OTF9LCJwcmV2IjoiNDBkZmQzYTA3MjJjMzAwOWY3M2VkZWUwM2YzYWRiZGY3ZTg0YWE5MTlmOTY0NmU3ZjA4YmNmOWIyNDI4NWJlMiIsInNlcW5vIjo3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQIvMZ5kY30lcEKGeEOYiJuNIBOIb+lukCQK0Bt4FTcjs6o9mGzD5/+z00w/0n8tkxyWhiOI0qH2hdCCVBOkofAWoc2lnX3R5cGUgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/albertpastrana
+
+==================================================================
